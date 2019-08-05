@@ -13,3 +13,6 @@ I would like to learn
 - oktatók tudnak csatlakozni, akik feltölteni tudnak tanfolyamokat
 - hallgatók tudnak csatlakozni, akik a tanfolyamokat el tudják végezni
 
+## Ez valami más
+Ide most írok valamit csak úgy
+
