@@ -2,7 +2,7 @@
 I would like to learn
 
 
-##Alapvetések
+## Alapvetések
 - Terveket tartalmaz
 - A terveket úgy készítjük, hogy a későbbiekben tovább fejleszthető legyen
 
